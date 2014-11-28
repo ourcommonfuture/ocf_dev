@@ -40,106 +40,6 @@
 	<?php include 'includes/navbar.php';?>
 <!-- /nav end-->
 
-	<!-- CAROUSEL
-================================================== -->
-<!-- 	<section class="carousel carousel-fade slide home-slider" id="c-slide">
-	<ol class="carousel-indicators" style="display:none;">
-		<li data-target="#c-slide" data-slide-to="0" class="active"></li>
-		<li data-target="#c-slide" data-slide-to="1" class=""></li>
-		<li data-target="#c-slide" data-slide-to="2" class=""></li>
-		<li data-target="#c-slide" data-slide-to="3" class=""></li>
-		<li data-target="#c-slide" data-slide-to="4" class=""></li>
-	</ol>
-	<div class="carousel-inner">
-		<div class="item active" style="background: url(img/background_63.jpg);">
-			<div class="container">
-				<div id="ocf_main">
-					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px"  viewBox="0 0 595 206.5" enable-background="new 0 0 595 206.5" xml:space="preserve">
-						<g>
-							<g>
-								<path fill="#FFFFFF" d="M233.4,115.6c-31.9,0-57.8-25.9-57.8-57.8S201.6,0,233.4,0s57.8,25.9,57.8,57.8S265.3,115.6,233.4,115.6z"></path>
-								<path fill="#FFFFFF" d="M362.9,115.6c-31.9,0-57.8-25.9-57.8-57.8h0c0-23.7-11.5-44.7-29.3-57.8h87.1V0
-									c31.9,0,57.8,25.9,57.8,57.8S394.8,115.6,362.9,115.6z"></path>
-							</g>
-							<text transform="matrix(1 0 0 1 1.124101e-04 177.2631)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="60.8564">Our Common Future</text>
-						</g>
-					</svg>
-					<div id="continue_button" ><a id="continue_buttons" href="#aboutOCF">C O N T I N U E</a></div>
-				</div>
-			</div>
-		</div>
-		<div class="item" style="background: url(img/background_123.jpg);">
-			<div class="container">
-				<div id="ocf_main">
-					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px"  viewBox="0 0 595 206.5" enable-background="new 0 0 595 206.5" xml:space="preserve">
-						<g>
-							<g>
-								<path fill="#FFFFFF" d="M233.4,115.6c-31.9,0-57.8-25.9-57.8-57.8S201.6,0,233.4,0s57.8,25.9,57.8,57.8S265.3,115.6,233.4,115.6z"></path>
-								<path fill="#FFFFFF" d="M362.9,115.6c-31.9,0-57.8-25.9-57.8-57.8h0c0-23.7-11.5-44.7-29.3-57.8h87.1V0
-									c31.9,0,57.8,25.9,57.8,57.8S394.8,115.6,362.9,115.6z"></path>
-							</g>
-							<text transform="matrix(1 0 0 1 1.124101e-04 177.2631)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="60.8564">Our Common Future</text>
-						</g>
-					</svg>
-					<div id="continue_button" ><a id="continue_buttons" href="#aboutOCF">C O N T I N U E</a></div>
-				</div>
-			</div>
-		</div>
-		<div class="item" style="background: url(img/background_93.jpg);">
-			<div class="container">
-				<div id="ocf_main">
-					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px"  viewBox="0 0 595 206.5" enable-background="new 0 0 595 206.5" xml:space="preserve">
-						<g>
-							<g>
-								<path fill="#FFFFFF" d="M233.4,115.6c-31.9,0-57.8-25.9-57.8-57.8S201.6,0,233.4,0s57.8,25.9,57.8,57.8S265.3,115.6,233.4,115.6z"></path>
-								<path fill="#FFFFFF" d="M362.9,115.6c-31.9,0-57.8-25.9-57.8-57.8h0c0-23.7-11.5-44.7-29.3-57.8h87.1V0
-									c31.9,0,57.8,25.9,57.8,57.8S394.8,115.6,362.9,115.6z"></path>
-							</g>
-							<text transform="matrix(1 0 0 1 1.124101e-04 177.2631)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="60.8564">Our Common Future</text>
-						</g>
-					</svg>
-					<div id="continue_button" ><a id="continue_buttons" href="#aboutOCF">C O N T I N U E</a></div>
-				</div>
-			</div>
-		</div>
-		<div class="item" style="background: url(img/background_82.jpg);">
-			<div class="container">
-				<div id="ocf_main">
-					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" width="100%" height="100%" viewBox="0 0 595 206.5" enable-background="new 0 0 595 206.5" xml:space="preserve">
-						<g>
-							<g>
-								<path fill="#FFFFFF" d="M233.4,115.6c-31.9,0-57.8-25.9-57.8-57.8S201.6,0,233.4,0s57.8,25.9,57.8,57.8S265.3,115.6,233.4,115.6z"></path>
-								<path fill="#FFFFFF" d="M362.9,115.6c-31.9,0-57.8-25.9-57.8-57.8h0c0-23.7-11.5-44.7-29.3-57.8h87.1V0
-									c31.9,0,57.8,25.9,57.8,57.8S394.8,115.6,362.9,115.6z"></path>
-							</g>
-							<text transform="matrix(1 0 0 1 1.124101e-04 177.2631)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="60.8564">Our Common Future</text>
-						</g>
-					</svg>
-					<div id="continue_button" ><a id="continue_buttons" href="#aboutOCF">C O N T I N U E</a></div>
-				</div>
-			</div>
-		</div>
-		<div class="item" style="background: url(img/background_102.jpg);">
-			<div class="container">
-				<div id="ocf_main">
-					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" width="595px" height="206.5px" viewBox="0 0 595 206.5" enable-background="new 0 0 595 206.5" xml:space="preserve">
-						<g>
-							<g>
-								<path fill="#FFFFFF" d="M233.4,115.6c-31.9,0-57.8-25.9-57.8-57.8S201.6,0,233.4,0s57.8,25.9,57.8,57.8S265.3,115.6,233.4,115.6z"></path>
-								<path fill="#FFFFFF" d="M362.9,115.6c-31.9,0-57.8-25.9-57.8-57.8h0c0-23.7-11.5-44.7-29.3-57.8h87.1V0
-									c31.9,0,57.8,25.9,57.8,57.8S394.8,115.6,362.9,115.6z"></path>
-							</g>
-							<text transform="matrix(1 0 0 1 1.124101e-04 177.2631)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="60.8564">Our Common Future</text>
-						</g>
-					</svg>
-					<div id="continue_button" ><a id="continue_buttons" href="#aboutOCF">C O N T I N U E</a></div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	</section> -->
-	<!-- /.carousel end-->
 	
 	<!-- /.wrapsemibox start-->
 	<div class="wrapsemibox">
@@ -439,28 +339,7 @@
 		</div>
 		</section>
 
-		<!-- /.recent-projects-home end-->
-		<!-- BEGIN CALL TO ACTION PANEL
-================================================== -->
-		<!-- <section class="container animated fadeInDownNow notransition topspace40">
-			<div class="row">
-				<div class="col-md-12"> -->
-					<!-- <div class="text-center">
-						<p class="bigtext">
-							 Praesent <span class="fontpacifico colortext">WowThemes</span> sapien, a vulputate enim auctor vitae
-						</p>
-						<p>
-							 Duis non lorem porta, adipiscing eros sit amet, tempor sem. Donec nunc arcu, semper a tempus et, consequat
-						</p>
-					</div> -->
-					<!-- <div class="text-center topspace20">
-						<a href="#" class="buttonblack"><i class="icon-shopping-cart"></i>&nbsp; get theme</a>
-						<a href="#" class="buttoncolor"><i class="icon-link"></i>&nbsp; learn more</a>
-					</div>
-				</div>
-			</div>
-		</section> -->
-		<!-- /. end call to action-->
+
 	</div>
 	<!-- /.wrapsemibox end-->
 	<!-- BEGIN FOOTER
